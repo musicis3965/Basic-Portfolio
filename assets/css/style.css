@@ -1,0 +1,51 @@
+
+
+
+
+
+body {
+  background-image: url(../images/portfolio-background-image.png)
+
+}
+
+
+header {
+    
+    margin-bottom: 20px;
+    color: #333;
+    background: white;
+    
+  
+}
+
+
+h2 {
+  padding: 5px;
+  padding-left: 15px;
+  
+}
+
+.cat {
+  margin-left: 15px;
+}
+
+#aboutme {
+  
+  margin-left: 15%;
+  width: 70%;
+  background: white;
+  
+}
+
+
+hr {
+    width: 95%;
+    color: grey;
+    margin-bottom: 20px;
+    
+}
+
+
+p {
+  margin: 15px;
+}
